@@ -1,0 +1,16 @@
+{
+  "financial_health_score": 0.4877735201302021,
+  "debt_to_equity": 0.10815396056870305,
+  "profit_margin": 0.08355449210754559,
+  "on_time_delivery": 0.07750291356933736,
+  "current_ratio": 0.06362609647494698,
+  "payment_delay_days": 0.048633365425262996,
+  "capacity_util": 0.027413275319012782,
+  "contract_compliance": 0.025044521814966744,
+  "bankruptcy_risk": 0.024792341233741123,
+  "dispute_rate": 0.021548498662365165,
+  "defect_rate": 0.01331617121108653,
+  "lead_time_days": 0.008155702977959776,
+  "years_relation": 0.008123971253503264,
+  "late_penalty": 0.0023611692513665077
+}
